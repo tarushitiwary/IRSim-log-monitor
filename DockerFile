@@ -1,0 +1,9 @@
+FROM python:3.11-slim
+
+WORKDIR /irsim
+
+COPY . .
+
+RUN pip install --no-cache-dir -r requirements.txt
+
+CMD ["python", "main.py", "--logfile", "sample_logs/access.log", "--report"]
