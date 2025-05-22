@@ -96,10 +96,7 @@ Future enhancements I’m planning:
 - PDF report export
 - Slack/email alert integrations
 - Basic anomaly detection using a machine learning model
-
-## 🔗 **Project Access**
-🧾 GitHub: [https://github.com/yourusername/irsim-log-monitor](https://github.com/yourusername/irsim-log-monitor)  
-🌐 Live Demo / Screenshots: (optional)
+  
 
 ## 🙋‍♂️ About Me
 I'm a final-year B.Tech CSE student passionate about security, automation, and backend engineering. IRSim is part of my journey to become a Security Engineer, blending hands-on problem-solving with automation-first thinking.
